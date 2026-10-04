@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gowtham V
 
-<!--
-**gowtham-v08/gowtham-v08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year B.E. CSE (AI & ML) student at **Jeppiaar Engineering College**, Chennai.
 
-Here are some ideas to get you started:
+Writing code in **Python**, **Java**, and **C++**. Currently learning data science through NPTEL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Focus
+
+- Python & data science fundamentals
+- Object-oriented programming
+- Data structures & algorithms
+- Small practical projects (e.g. face-recognition attendance)
+
+### Looking for
+
+An internship where I can write real code and learn from people who ship things.
+
+---
+
+**Portfolio** → [gowtham-v.vercel.app](https://gowtham-v.vercel.app)  
+**Email** → gowtham_dev@outlook.com
+
+```bash
+# currently learning
+Python · Java · C++ · Git · DSA · Basic ML
+```
